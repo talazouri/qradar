@@ -1,0 +1,26 @@
+.menu_left{
+    margin-top: 50px;
+    float: left;
+    height: 600px;
+    width: 250px;
+    border: 1px solid gray;
+}
+
+.menu_left_head{
+    width: 250px;
+    height: 30px;
+    text-align: center;
+
+    background: white; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(white, gray); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(white, gray); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(white, gray); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(white, gray); /* Standard syntax */
+}
+
+.main_qguard{
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 1500px;
+    float: left;
+}
